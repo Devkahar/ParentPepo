@@ -1,1 +1,2 @@
-Hey i am child repo
+Hey i am child repo. 
+Now update from parent
